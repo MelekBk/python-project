@@ -62,7 +62,7 @@ def afficher2():
                 ff=True
     except:
         QMessageBox.critical(win,"Erreur ","Le fichier proprietes est inexistant")
-        
+    print("mon travailll python")
             
         
 
